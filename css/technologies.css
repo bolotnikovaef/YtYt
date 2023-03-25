@@ -1,0 +1,64 @@
+.technologies {
+    padding: 103px 0 42px;
+}
+.technologies__title {
+    margin-bottom: 35px;
+}
+.technologies__row {
+    display: flex;
+    padding: 42px 104px 1px 122px;
+    justify-content: space-between;
+    background: #EAF2F5;
+    border-radius: 48px;
+}
+.technologies__content {
+    margin-top: 37px;
+}
+.badge {
+    max-width: 466px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+.badge__item {
+    padding: 0 25px 0 25px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 46px;
+    color: #FFFFFF;
+    border-radius: 44px;
+}
+.badge__item_blue {
+    background: #5096FF;
+}
+.badge__item_orange {
+    background: #FFB359;
+}
+.badge__item_red {
+    padding: 0 24px;
+    background: #FF6F50;
+}
+.badge__item_green {
+    padding: 0 28px;
+    background: #4BD071;
+}
+.badge__item_light-blue {
+    padding: 0 30px;
+    background: #50C0FF;
+}
+.badge__item_dark-blue {
+    padding: 0 20px;
+    background: #4B77B9;
+}
+.badge__item_purple {
+    padding: 0 34px;
+    background: #AF93FF;
+}
+.technologies__descr {
+    width: 386px;
+    font-family: 'Gilroy SemiBold';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+}

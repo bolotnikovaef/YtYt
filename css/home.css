@@ -1,0 +1,47 @@
+.home {
+    padding: 50px 0 66px;
+}
+.home__row {
+    display: flex;
+    justify-content: space-between;
+}
+.home__title {
+    max-width: 638px;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 46px;
+    margin-bottom: 30px;
+}
+.home__title span {
+    color: #F15525;
+}
+.home__descr {
+    max-width: 365px;
+    padding-top: 14px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;   
+    margin-bottom: 18px;
+    border-top: 2px solid #DEDEDE;
+}
+.home__btn {
+    display: inline-block;
+    padding: 27px 45px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #F15525;
+    border-radius: 82px;
+    cursor: pointer;
+}
+.home__btn:hover {
+    background: #38BFF2;
+}
+.btn-link {
+    display: flex;
+    align-items: center;
+}
+.btn-img {
+    margin-left: 12px;
+}

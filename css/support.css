@@ -1,0 +1,48 @@
+.support {
+    padding: 90px 0 90px;
+}
+.support__row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;  
+    gap: 30px;
+}
+.support__img {
+    width: 400px;
+    padding: 40px 65px;
+    background: #EAF2F5;
+    border-radius: 40px;
+}
+.support__img_low {
+    padding: 18px 65px;
+}
+.support__text {
+    /* width: 730px; */
+    background: #EAF2F5;
+    border-radius: 40px;
+}
+.support__text_first {
+    padding: 54px 80px 49px 100px;
+}
+.support__text_second {
+    padding: 55px 128px 55px 100px;
+}
+.support__title {
+    font-family: 'Gilroy SemiBold';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 30px; 
+    margin-bottom: 18px; 
+}
+.support__descr {
+    max-width: 502px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+}
+.support__descr_long {
+    max-width: 550px;
+}
+.support__descr_first {
+    margin-bottom: 18px;
+}
